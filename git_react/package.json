@@ -1,0 +1,23 @@
+{
+  "name": "reacttry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --progress",
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "Goutham",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "firebase": "^3.4.0",
+    "history": "^1.17.0",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-router": "^2.8.1",
+    "reactfire": "^0.4.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
+  }
+}

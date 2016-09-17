@@ -1,0 +1,58 @@
+.completebdr {
+    border:1px solid darkgray;
+    text-align: center;
+}
+.logo {
+    padding: 15px;
+    background-color: white;
+    border-radius: 12px;
+}
+.topnav {
+    padding: 20px;
+    margin-bottom: 70px;
+}
+
+.logomatter {
+    float: right;
+    padding: 20px;
+    font-size: 20px;
+}
+.logomatter li {
+    border-left: 1px solid black;
+    padding: 10px;
+}
+.tryh1{
+    margin-bottom: 30px;
+}
+.window {
+    text-align: center;
+}
+.register {
+    border:1px solid darkgray;
+    padding: 0px;
+    font-size: 18px;
+}
+.wintop {
+    padding: 5px;
+    margin: 0px;
+    height: 40px;
+    background-color: lightgrey;
+    border-bottom: 1px solid darkgray;
+}
+.form1 {
+    margin-top: 60px;
+}
+.form2 {
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+#close:hover {
+    background-image: url('img/close_icon_hover.png');
+    height: 70px;
+    width: 120px;
+}
+
+.secpage {
+    margin: 250px 150px 250px 150px;
+}
